@@ -1,2 +1,2 @@
-# Clip_For_Lymphoma
-This project involved trying to use CLIP (OpenAI) for detection with lymphoma classifications
+# Clip For Lymphoma
+This project involved trying to use CLIP (OpenAI) for the detection of different lymphoma types
